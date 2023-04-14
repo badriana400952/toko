@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@700&family=EB+Garamond:wght@500&family=Fira+Sans&family=Lora:ital,wght@0,600;0,700;1,600&family=Noto+Serif:wght@400;700&family=Public+Sans:wght@300;400;700&family=Roboto+Slab:wght@400;500&display=swap');
+
+
+.card {
+    width: 17rem;
+    border: none;
+    margin-top: 3px;
+}
+
+/* detail Produk */
+
+.produk {
+    margin-bottom: -3px;
+}
+
+.fotoProduk {
+    width: 250px;
+    height: 250px;
+
+}
+
+.card-body {
+    margin-top: -3px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.desk {
+    color: rgb(117, 114, 114);
+}
+
+ssssssss {
+    font-family: 'Amiri', serif;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Public Sans', sans-serif;
+}
+.font{
+    font-family: 'Noto Serif', serif;
+}
+.font2{
+    font-family: 'Noto Serif', serif;
+
+}
+.komen{
+    background-color: rgba(216, 249, 238, 0.574);
+    
+}
+.colomkomentar{
+    width: 700px;
+    margin-top: 20px;
+}
+.form{
+    width: 500px;
+}
+
+/* detail men produk */
+
+.hover:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+
